@@ -6,9 +6,13 @@ website:
   title: "David Redek"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects_landing.qmd
+    right:
+      - icon: github
+        href: https://github.com/davidredek
 
 format:
   html:

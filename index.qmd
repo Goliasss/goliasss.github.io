@@ -10,7 +10,7 @@ about:
     - text: LinkedIn
       href: https://www.linkedin.com/in/david-redek/
     - text: GitHub
-      href: https://github.com/Goliasss
+      href: https://github.com/davidredek
 ---
 
 david \[dot\] redek \[at\] gmail \[dot\] com
