@@ -12,5 +12,26 @@
     "title": "Projects",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "David Redek",
+    "section": "Bio",
+    "text": "Bio\nI am a statistician, data scientist, and generally an aspiring data professional based in Copenhagen."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "David Redek",
+    "section": "Education",
+    "text": "Education\nUniversity of Copenhagen | Copenhagen, Denmark\nMSc. Statistics | 2021 - 2023\nCharles University | Prague, Czech Republic\nBc. Mathematics | 2017 - 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "David Redek",
+    "section": "Experience",
+    "text": "Experience\nNovo Nordisk | Statistician | January 2024 - Present"
   }
 ]
