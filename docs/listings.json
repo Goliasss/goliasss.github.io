@@ -5,6 +5,8 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/posts/project_1/index.html"
+    ]
   }
 ]
