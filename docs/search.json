@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "First project\n\n\n\n\n\n\n\n\n\n\n\nAug 28, 2025\n\n\nDavid Redek\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "index.html#bio",
@@ -61,5 +61,12 @@
     "title": "First project",
     "section": "Hello world",
     "text": "Hello world\nadsfasdf"
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "Here is where I will start writing my actual blog post content…\n\n\n\nCitationBibTeX citation:@online{redek2022,\n  author = {Redek, David and Csik, Samantha},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRedek, David, and Samantha Csik. 2022. “Blog Post Title.”\nOctober 24, 2022. https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
   }
 ]
